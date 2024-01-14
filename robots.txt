@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://14dominoqq.kyletezak.com/sitemap.xml
